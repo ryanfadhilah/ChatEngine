@@ -1,0 +1,7 @@
+Express : http method for running node server
+
+cors : call server anywhere from internet
+
+Axios : make api call to ChatEngine.io
+
+nodemon : to run server 
